@@ -1,8 +1,8 @@
 <?php
-$color = "ye";
+$color = "green";
 switch ($color) {
     case 'red':
-    case 'Green':
+    case 'green':
        echo ucwords($color). " is my fav color \n";
        break;
     case 'Blue':
