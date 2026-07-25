@@ -24,7 +24,6 @@ $str1 = <<<STRING
    Hello World
       PHP Tutorial
    by TutorialsPoint\n
-   
    STRING;
          
    echo $str1;
