@@ -16,6 +16,7 @@ rewind($fp);
 while ($line=fgets($fp)){
     echo $line."\n";
 }
+rewind($fp);
 while ($line=fgets($fp)){
     echo $line."\n";
 }

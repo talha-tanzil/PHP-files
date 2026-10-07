@@ -1,0 +1,1 @@
+a:3:{i:0;a:5:{s:5:"fname";s:6:"Shahin";s:5:"lname";s:5:"Ahmed";s:3:"age";i:12;s:5:"class";i:7;s:4:"roll";i:11;}i:2;a:5:{s:5:"fname";s:6:"Nikhil";s:5:"lname";s:7:"Chandra";s:3:"age";i:12;s:5:"class";i:7;s:4:"roll";i:14;}i:3;a:5:{s:5:"fname";s:5:"Kamal";s:5:"lname";s:5:"Ahmed";s:3:"age";i:13;s:5:"class";i:7;s:4:"roll";i:17;}}
